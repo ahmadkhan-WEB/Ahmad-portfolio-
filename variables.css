@@ -1,0 +1,16 @@
+:root {
+  --bg: #0f172a;
+  --bg-elevated: rgba(30, 41, 59, 0.55);
+  --text: #f8fafc;
+  --muted: #94a3b8;
+  --blue: #3b82f6;
+  --cyan: #06b6d4;
+  --border: rgba(148, 163, 184, 0.18);
+  --glow: rgba(59, 130, 246, 0.35);
+  --radius: 18px;
+  --container: 1120px;
+  --nav-h: 72px;
+  --font: "Poppins", system-ui, sans-serif;
+  --shadow: 0 20px 50px rgba(2, 6, 23, 0.45);
+  --gradient: linear-gradient(135deg, var(--blue), var(--cyan));
+}
